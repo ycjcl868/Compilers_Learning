@@ -2,5 +2,3 @@
 
 
 
-![](/assets/import.png)
-
